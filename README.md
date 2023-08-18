@@ -1,4 +1,4 @@
-[![MasterHead](https://www.codebuiltup.com/public/uploads/news-2.jpg)]
+![MasterHead](https://www.codebuiltup.com/public/uploads/news-2.jpg)
 <h1 align="center">Hi 👋, I'm Yarlei Oliveira</h1>
 <h3 align="center">A flutter developer from Brasil</h3>
 
